@@ -1,4 +1,4 @@
-package folder1;
+package folder1renamed;
 
 public class test2 {
     
